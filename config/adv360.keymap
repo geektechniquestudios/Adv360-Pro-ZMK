@@ -73,7 +73,7 @@
           &kp TAB         &kp Q   &kp W           &kp E            &kp R         &kp T                &kp Y                                                                  &trans  &trans  &trans  &trans  &trans  &trans  &trans
          &kp BSPC         &kp A   &kp S           &kp D            &kp F         &kp G                &kp H  &kp LEFT_CONTROL  &kp LEFT_ALT                  &trans  &trans  &trans  &trans  &trans  &trans  &trans  &trans  &trans
    &kp LEFT_SHIFT         &kp Z   &kp X           &kp C            &kp V         &kp B                                             &kp PLUS                  &trans                  &trans  &trans  &trans  &trans  &trans  &trans
- &kp LEFT_CONTROL         &kp J   &kp K  &kp LEFT_ARROW  &kp RIGHT_ARROW                          &kp SPACE             &kp Z     &kp MINUS                  &trans   &to 0  &trans          &trans  &trans  &trans  &trans  &trans
+ &kp LEFT_CONTROL         &kp J   &kp K  &kp LEFT_ARROW  &kp RIGHT_ARROW                          &kp SPACE             &kp C     &kp MINUS                  &trans   &to 0  &trans          &trans  &trans  &trans  &trans  &trans
             >;
         };
 
